@@ -1,3 +1,6 @@
+## INFO
+This is a modified fork repo to deal with recent compilation environment: MS Visual Studio IDE 2022 with Windows 10 SDK 10.0.18362.0. You can find a working, precompiled x64 executable in the release sub directory
+
 ## Presentation
 
 All the users of laser cutter have probably been confronted with the problem: my drawing does not fit in the wood sheet at my disposal or even in the laser cutter! To try to solve this problem, I started writing an optimization program for placing objects on a sheet. 

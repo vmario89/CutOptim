@@ -1510,7 +1510,7 @@ Point RefPoint;
             OutDebug << "Create cache object for polygon " << WorkingFloatingEntry->id << "  with " << WorkingFloatingEntry->LargePolygon->nVertices*num_rot*nPreviousVertices << " entries.\n";
         }
     }
-    else if ( UseCache and debug_level > 1)
+    else if ( UseCache && debug_level > 1)
     {
         OutDebug << "Cache object for polygon " << WorkingFloatingEntry->id << "  is already present \n";
     }
